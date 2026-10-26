@@ -1,7 +1,15 @@
 ## Hi there 👋
 
- I'm Shaahir, a final year data science major student in Portugal
- 
- Obessesed with finance models and probability questions right now
- 
- Working my way up to a quant trander/AI engineer 
+## Shaahir | Data Science → Quantitative Finance
+
+Final-year data science student in Portugal, focused on **financial modeling, probability, and machine learning**. Working toward a career as a quant trader/ AI engineer.
+
+### Currently exploring
+- Stochastic models and option pricing
+- Probability problems and quant-style puzzles
+
+### Tech
+Python · NumPy · pandas · scikit-learn · SQL
+
+### Contact
+www.linkedin.com/in/shaahir-r-951718265
